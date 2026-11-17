@@ -16,7 +16,7 @@ Education
   * Thesis: *Planning and Control Techniques for High-Level Autonomy of Robots*
   * Supervisors: Prof. Manolo Garabini, Prof. Franco Angelini
 * **M.Sc. in Robotics and Automation Engineering**, University of Pisa, Italy, 2020 – 2023
-  * Thesis: *Omni Wheeled-Legged Quadrupedal Robot*
+  * Thesis: *Design and Control of a Hybrid Wheeled-Legged Quadruped Robot with Mecanum Wheels*
   * Supervisors: Prof. Manolo Garabini, Prof. Lucia Pallottino, Prof. Franco Angelini
   * Final grade: 108/110
 * **B.Sc. in Mechatronics Engineering**, University of Modena and Reggio Emilia, Italy, 2016 – 2020
