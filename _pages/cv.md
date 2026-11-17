@@ -11,35 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Robotics and Intelligent Machines (PhD-RIM)**, University of Pisa, Italy, Nov 2023 – present
+  * Department of Information Engineering
+  * Thesis: *Planning and Control Techniques for High-Level Autonomy of Robots*
+  * Supervisors: Prof. Manolo Garabini, Prof. Franco Angelini
+* **M.Sc. in Robotics and Automation Engineering**, University of Pisa, Italy, 2020 – 2023
+  * Thesis: *Omni Wheeled-Legged Quadrupedal Robot*
+  * Supervisors: Prof. Manolo Garabini, Prof. Lucia Pallottino, Prof. Franco Angelini
+  * Final grade: 108/110
+* **B.Sc. in Mechatronics Engineering**, University of Modena and Reggio Emilia, Italy, 2016 – 2020
+  * Thesis: *Study of an orthogonal-flux variable inductor for the optimization of switching DC-DC converters in automotive applications*
+  * Supervisor: Prof. Emilio Lorenzani
+  * Final grade: 105/110
 
-Work experience
+Research visits
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **University of Oxford**, Oxford, United Kingdom, Apr 2026 – Sep 2026
+  * Host: Prof. Maurice Fallon
+  * Proprioceptive state estimation for legged robots, including Pronto on humanoid platforms.
+* **Slovak University of Technology (STU)**, Bratislava, Slovakia, May 2025
+  * Faculty of Electrical Engineering and Information Technology. Host: Prof. František Duchoň
+  * FrontSeat project: global path planning with multi-model switching (IFAC World Congress 2026).
+* **Universidade Federal da Paraíba**, João Pessoa, Brazil, Jul 2018 – Nov 2018
+  * MORE OVERSEAS exchange semester during the B.Sc.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Legged and hybrid (wheeled-legged, tracked-legged) locomotion
+* Proprioceptive state estimation
+* Motion planning with multiple motion models
+* Series elastic actuators and dynamics identification
+* ROS 2 hardware–software integration for modular mobile robots
 
 Publications
 ======
@@ -47,18 +49,22 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks and scientific activities
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
+
+Technical skills
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* **Programming:** C, Python, MATLAB, Simulink (advanced); C++ (good)
+* **Robotics software:** ROS, ROS 2
+* **CAD and simulation:** Creo (advanced); SolidWorks, AutoCAD, LTspice (good)
+* **Tools:** LaTeX, Git, Linux (Ubuntu), Windows, macOS
+
+Languages
 ======
-* Currently signed in to 43 different slack teams
+* Italian (native)
+* English (C1)
+* German (B1)
+* Portuguese (A2)
